@@ -1,0 +1,1428 @@
+{
+  "firstName": "Ανδρέας",
+  "lastName": "Αποστολόπουλος",
+  "companyName": "",
+  "email": "apostan@hotmail.com",
+  "secondaryEmail": "",
+  "phone": "2610335127",
+  "mobile": "6932572582",
+  "address": {
+    "street": "Σαχίνη Γεώργιου 17",
+    "city": "Πάτρα",
+    "state": "Αχαΐα",
+    "zip": "263 32",
+    "country": "Ελλάδα"
+  },
+  "minPrice": 20,
+  "maxPrice": 7000,
+  "latitude": 38.2210,
+  "longitude": 21.7328,
+  "serviceRadiusKm": 100,
+
+  "specificationTypeToRequests": {
+    "CATEGORY": [
+      { "specificationKey": "electricians", "specificationText": "Electricians" }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Electrical Installations of Domestic Circuits (sockets, switches, wiring, circuit extensions, junction boxes), Installation & Maintenance of Lighting Systems (LED, spotlights, ceiling lights, wall lamps, outdoor lighting), Renovation & Replacement of Electrical Panel (new panel, residual current device, fuse replacement, single-phase/three-phase), Fault Detection & Electrical Repairs (power issues, burned sockets, short circuits, power interruptions), Installation of Appliance Circuits (water heater, kitchen, washing machine, A/C, dedicated line), Grounding & Safety Resistance Measurement (grounding rod, resistance test, connection to panel, safety verification), Issue & Signing of Power Supply Certificate (ΥΔΕ) (installation inspection, compliance declaration, name change at DEDDHE)"
+      },
+      { "specificationKey": "electrical_design_and_studies", "specificationText": "Electrical Design and Studies" },
+      { "specificationKey": "structured_cabling_and_networks", "specificationText": "Structured Cabling & Communication Networks" },
+      { "specificationKey": "building_automation_and_smart_home_systems", "specificationText": "Building Automation & Smart Home Systems" },
+      { "specificationKey": "heating_and_heat_pump_control_systems", "specificationText": "Heating and Heat Pump Control Systems" }
+    ]
+  },
+
+  "specificationTypeToRequestsGr": {
+    "CATEGORY": [
+      { "specificationKey": "electricians", "specificationText": "Ηλεκτρολόγοι" }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Ηλεκτρικές Εγκαταστάσεις Οικιακών Κυκλωμάτων (πρίζες, διακόπτες, καλωδίωση, επεκτάσεις κυκλωμάτων, κουτιά διακλάδωσης), Εγκατάσταση & Συντήρηση Φωτιστικών Χώρου (LED, σποτ, φωτιστικά οροφής, απλίκες, φωτισμός εξωτερικού χώρου), Ανακαίνιση & Αντικατάσταση Ηλεκτρικού Πίνακα (νέος πίνακας, ρελέ διαρροής, αντικατάσταση ασφαλειών, μονοφασικός/τριφασικός), Έλεγχος & Επισκευή Ηλεκτρικών Βλαβών (προβλήματα ρεύματος, καμένες πρίζες, βραχυκυκλώματα, διακοπές ρεύματος), Εγκατάσταση Κυκλωμάτων Οικιακών Συσκευών (θερμοσίφωνας, κουζίνα, πλυντήριο, A/C, ξεχωριστό κύκλωμα), Γείωση & Μέτρηση Αντίστασης Ασφαλείας (ράβδος γείωσης, μέτρηση, σύνδεση με πίνακα, έλεγχος ασφαλείας), Έκδοση & Υπογραφή Πιστοποιητικού ΥΔΕ (έλεγχος εγκατάστασης, υπεύθυνη δήλωση, αλλαγή ονόματος ΔΕΔΔΗΕ)"
+      },
+      { "specificationKey": "electrical_design_and_studies", "specificationText": "Ηλεκτρολογικός Σχεδιασμός & Μελέτες" },
+      { "specificationKey": "structured_cabling_and_networks", "specificationText": "Δίκτυα Επικοινωνίας & Δομημένη Καλωδίωση" },
+      { "specificationKey": "building_automation_and_smart_home_systems", "specificationText": "Αυτοματισμοί Κτιρίων & Smart Home Systems" },
+      { "specificationKey": "heating_and_heat_pump_control_systems", "specificationText": "Συστήματα Ελέγχου Θέρμανσης & Αντλιών Θερμότητας" }
+    ]
+  }
+},
+{
+  "firstName": "Ευθύμιος",
+  "lastName": "Γουργουλέτης",
+  "companyName": "",
+  "email": "gourgouletisk@gmail.com",
+  "secondaryEmail": "",
+  "phone": "2610333634",
+  "mobile": "6977402182",
+  "address": {
+    "street": "Εθνομαρτύρων 38",
+    "city": "Πάτρα",
+    "state": "Αχαΐα",
+    "zip": "263 33",
+    "country": "Ελλάδα"
+  },
+  "minPrice": 20,
+  "maxPrice": 7000,
+  "latitude": 38.2290,
+  "longitude": 21.7329,
+  "serviceRadiusKm": 100,
+
+  "specificationTypeToRequests": {
+    "CATEGORY": [
+      { "specificationKey": "electricians", "specificationText": "Electricians" }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Electrical Installations of Domestic Circuits (sockets, switches, wiring, circuit extensions, junction boxes), Installation & Maintenance of Lighting Systems (LED, spotlights, ceiling lights, wall lamps, outdoor lighting), Renovation & Replacement of Electrical Panel (new panel, residual current device, fuse replacement, single-phase/three-phase), Fault Detection & Electrical Repairs (power issues, burned sockets, short circuits, power interruptions), Installation of Appliance Circuits (water heater, kitchen, washing machine, A/C, dedicated line), Grounding & Safety Resistance Measurement (grounding rod, resistance test, connection to panel, safety verification), Issue & Signing of Power Supply Certificate (ΥΔΕ) (installation inspection, compliance declaration, name change at DEDDHE)"
+      },
+      { "specificationKey": "electrical_design_and_studies", "specificationText": "Electrical Design and Studies" },
+      { "specificationKey": "structured_cabling_and_networks", "specificationText": "Structured Cabling & Communication Networks" },
+      { "specificationKey": "fire_detection_and_alarm_systems", "specificationText": "Fire Detection & Alarm Systems" }
+    ]
+  },
+
+  "specificationTypeToRequestsGr": {
+    "CATEGORY": [
+      { "specificationKey": "electricians", "specificationText": "Ηλεκτρολόγοι" }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Ηλεκτρικές Εγκαταστάσεις Οικιακών Κυκλωμάτων (πρίζες, διακόπτες, καλωδίωση, επεκτάσεις κυκλωμάτων, κουτιά διακλάδωσης), Εγκατάσταση & Συντήρηση Φωτιστικών Χώρου (LED, σποτ, φωτιστικά οροφής, απλίκες, φωτισμός εξωτερικού χώρου), Ανακαίνιση & Αντικατάσταση Ηλεκτρικού Πίνακα (νέος πίνακας, ρελέ διαρροής, αντικατάσταση ασφαλειών, μονοφασικός/τριφασικός), Έλεγχος & Επισκευή Ηλεκτρικών Βλαβών (προβλήματα ρεύματος, καμένες πρίζες, βραχυκυκλώματα, διακοπές ρεύματος), Εγκατάσταση Κυκλωμάτων Οικιακών Συσκευών (θερμοσίφωνας, κουζίνα, πλυντήριο, A/C, ξεχωριστό κύκλωμα), Γείωση & Μέτρηση Αντίστασης Ασφαλείας (ράβδος γείωσης, μέτρηση, σύνδεση με πίνακα, έλεγχος ασφαλείας), Έκδοση & Υπογραφή Πιστοποιητικού ΥΔΕ (έλεγχος εγκατάστασης, υπεύθυνη δήλωση, αλλαγή ονόματος ΔΕΔΔΗΕ)"
+      },
+      { "specificationKey": "electrical_design_and_studies", "specificationText": "Ηλεκτρολογικός Σχεδιασμός & Μελέτες" },
+      { "specificationKey": "structured_cabling_and_networks", "specificationText": "Δίκτυα Επικοινωνίας & Δομημένη Καλωδίωση" },
+      { "specificationKey": "fire_detection_and_alarm_systems", "specificationText": "Πυρανίχνευση & Συστήματα Συναγερμού" }
+    ]
+  }
+},
+{
+  "firstName": "Γεώργιος & Παναγιώτης",
+  "lastName": "Κούρτης - Τουμπούρος Ο.Ε.",
+  "companyName": "Σ.Ε.Η.Ε.",
+  "email": "georgioskourtis@hotmail.gr",
+  "secondaryEmail": "seheoepatra@gmail.com",
+  "phone": "2610344756",
+  "mobile": "6932740955",
+  "address": {
+    "street": "Φαναρίου 70",
+    "city": "Πάτρα",
+    "state": "Αχαΐα",
+    "zip": "262 26",
+    "country": "Ελλάδα"
+  },
+  "minPrice": 20,
+  "maxPrice": 7000,
+  "latitude": 38.2323,
+  "longitude": 21.7429,
+  "serviceRadiusKm": 100,
+
+  "specificationTypeToRequests": {
+    "CATEGORY": [
+      { "specificationKey": "electricians", "specificationText": "Electricians" }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Electrical Installations of Domestic Circuits (sockets, switches, wiring, circuit extensions, junction boxes), Installation & Maintenance of Lighting Systems (LED, spotlights, ceiling lights, wall lamps, outdoor lighting), Renovation & Replacement of Electrical Panel (new panel, residual current device, fuse replacement, single-phase/three-phase), Fault Detection & Electrical Repairs (power issues, burned sockets, short circuits, power interruptions), Installation of Appliance Circuits (water heater, kitchen, washing machine, A/C, dedicated line), Grounding & Safety Resistance Measurement (grounding rod, resistance test, connection to panel, safety verification), Issue & Signing of Power Supply Certificate (ΥΔΕ) (installation inspection, compliance declaration, name change at DEDDHE)"
+      },
+      { "specificationKey": "industrial_power_systems", "specificationText": "Industrial Power Systems" },
+      { "specificationKey": "iot_and_plc_control_applications", "specificationText": "IoT and PLC Control Applications" },
+      { "specificationKey": "electrical_design_and_studies", "specificationText": "Electrical Design and Studies" }
+    ]
+  },
+
+  "specificationTypeToRequestsGr": {
+    "CATEGORY": [
+      { "specificationKey": "electricians", "specificationText": "Ηλεκτρολόγοι" }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Ηλεκτρικές Εγκαταστάσεις Οικιακών Κυκλωμάτων (πρίζες, διακόπτες, καλωδίωση, επεκτάσεις κυκλωμάτων, κουτιά διακλάδωσης), Εγκατάσταση & Συντήρηση Φωτιστικών Χώρου (LED, σποτ, φωτιστικά οροφής, απλίκες, φωτισμός εξωτερικού χώρου), Ανακαίνιση & Αντικατάσταση Ηλεκτρικού Πίνακα (νέος πίνακας, ρελέ διαρροής, αντικατάσταση ασφαλειών, μονοφασικός/τριφασικός), Έλεγχος & Επισκευή Ηλεκτρικών Βλαβών (προβλήματα ρεύματος, καμένες πρίζες, βραχυκυκλώματα, διακοπές ρεύματος), Εγκατάσταση Κυκλωμάτων Οικιακών Συσκευών (θερμοσίφωνας, κουζίνα, πλυντήριο, A/C, ξεχωριστό κύκλωμα), Γείωση & Μέτρηση Αντίστασης Ασφαλείας (ράβδος γείωσης, μέτρηση, σύνδεση με πίνακα, έλεγχος ασφαλείας), Έκδοση & Υπογραφή Πιστοποιητικού ΥΔΕ (έλεγχος εγκατάστασης, υπεύθυνη δήλωση, αλλαγή ονόματος ΔΕΔΔΗΕ)"
+      },
+      { "specificationKey": "industrial_power_systems", "specificationText": "Βιομηχανικά Συστήματα Ισχύος" },
+      { "specificationKey": "iot_and_plc_control_applications", "specificationText": "Εφαρμογές Ελέγχου IoT & PLC" },
+      { "specificationKey": "electrical_design_and_studies", "specificationText": "Ηλεκτρολογικός Σχεδιασμός & Μελέτες" }
+    ]
+  }
+},
+{
+  "firstName": "Θεοδόσης & Φώτης",
+  "lastName": "Πορίχης",
+  "companyName": "LIGHT ON",
+  "email": "lighton_1@yahoo.gr",
+  "secondaryEmail": "fotis@lighton.com.gr, theodosis@lighton.com.gr",
+  "phone": "2106854117",
+  "mobile": "6932327900",
+  "address": {
+    "street": "Θεμιστοκλέους 9",
+    "city": "Χαλάνδρι",
+    "state": "Αττική",
+    "zip": "152 32",
+    "country": "Ελλάδα"
+  },
+  "minPrice": 20,
+  "maxPrice": 7000,
+  "latitude": 38.0203,
+  "longitude": 23.8002,
+  "serviceRadiusKm": 45,
+
+  "specificationTypeToRequests": {
+    "CATEGORY": [
+      { "specificationKey": "electricians", "specificationText": "Electricians" }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Electrical Installations of Domestic Circuits (sockets, switches, wiring, circuit extensions, junction boxes), Installation & Maintenance of Lighting Systems (LED, spotlights, ceiling lights, wall lamps, outdoor lighting), Renovation & Replacement of Electrical Panel (new panel, residual current device, fuse replacement, single-phase/three-phase), Fault Detection & Electrical Repairs (power issues, burned sockets, short circuits, power interruptions), Installation of Appliance Circuits (water heater, kitchen, washing machine, A/C, dedicated line), Grounding & Safety Resistance Measurement (grounding rod, resistance test, connection to panel, safety verification), Issue & Signing of Power Supply Certificate (ΥΔΕ) (installation inspection, compliance declaration, name change at DEDDHE)"
+      },
+      { "specificationKey": "electrical_design_and_studies", "specificationText": "Electrical Design and Studies" },
+      { "specificationKey": "building_automation_and_smart_home_systems", "specificationText": "Building Automation & Smart Home Systems" },
+      { "specificationKey": "structured_cabling_and_networks", "specificationText": "Structured Cabling & Communication Networks" }
+    ]
+  },
+
+  "specificationTypeToRequestsGr": {
+    "CATEGORY": [
+      { "specificationKey": "electricians", "specificationText": "Ηλεκτρολόγοι" }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Ηλεκτρικές Εγκαταστάσεις Οικιακών Κυκλωμάτων (πρίζες, διακόπτες, καλωδίωση, επεκτάσεις κυκλωμάτων, κουτιά διακλάδωσης), Εγκατάσταση & Συντήρηση Φωτιστικών Χώρου (LED, σποτ, φωτιστικά οροφής, απλίκες, φωτισμός εξωτερικού χώρου), Ανακαίνιση & Αντικατάσταση Ηλεκτρικού Πίνακα (νέος πίνακας, ρελέ διαρροής, αντικατάσταση ασφαλειών, μονοφασικός/τριφασικός), Έλεγχος & Επισκευή Ηλεκτρικών Βλαβών (προβλήματα ρεύματος, καμένες πρίζες, βραχυκυκλώματα, διακοπές ρεύματος), Εγκατάσταση Κυκλωμάτων Οικιακών Συσκευών (θερμοσίφωνας, κουζίνα, πλυντήριο, A/C, ξεχωριστό κύκλωμα), Γείωση & Μέτρηση Αντίστασης Ασφαλείας (ράβδος γείωσης, μέτρηση, σύνδεση με πίνακα, έλεγχος ασφαλείας), Έκδοση & Υπογραφή Πιστοποιητικού ΥΔΕ (έλεγχος εγκατάστασης, υπεύθυνη δήλωση, αλλαγή ονόματος ΔΕΔΔΗΕ)"
+      },
+      { "specificationKey": "electrical_design_and_studies", "specificationText": "Ηλεκτρολογικός Σχεδιασμός & Μελέτες" },
+      { "specificationKey": "building_automation_and_smart_home_systems", "specificationText": "Αυτοματισμοί Κτιρίων & Smart Home Systems" },
+      { "specificationKey": "structured_cabling_and_networks", "specificationText": "Δίκτυα Επικοινωνίας & Δομημένη Καλωδίωση" }
+    ]
+  }
+},
+{
+  "firstName": "Ιωάννης",
+  "lastName": "Σπυρόπουλος",
+  "companyName": "",
+  "email": "ielectrical78@gmail.com",
+  "secondaryEmail": "",
+  "phone": "",
+  "mobile": "6934707925",
+  "address": {
+    "street": "",
+    "city": "Μαρκόπουλο Μεσογαίας",
+    "state": "Αττική",
+    "zip": "190 03",
+    "country": "Ελλάδα"
+  },
+  "minPrice": 20,
+  "maxPrice": 7000,
+  "latitude": 37.8840,
+  "longitude": 23.9290,
+  "serviceRadiusKm": 60,
+
+  "specificationTypeToRequests": {
+    "CATEGORY": [
+      { "specificationKey": "electricians", "specificationText": "Electricians" }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Electrical Installations of Domestic Circuits (sockets, switches, wiring, circuit extensions, junction boxes), Installation & Maintenance of Lighting Systems (LED, spotlights, ceiling lights, wall lamps, outdoor lighting), Renovation & Replacement of Electrical Panel (new panel, residual current device, fuse replacement, single-phase/three-phase), Fault Detection & Electrical Repairs (power issues, burned sockets, short circuits, power interruptions), Installation of Appliance Circuits (water heater, kitchen, washing machine, A/C, dedicated line), Grounding & Safety Resistance Measurement (grounding rod, resistance test, connection to panel, safety verification), Issue & Signing of Power Supply Certificate (ΥΔΕ) (installation inspection, compliance declaration, name change at DEDDHE)"
+      }
+    ]
+  },
+
+  "specificationTypeToRequestsGr": {
+    "CATEGORY": [
+      { "specificationKey": "electricians", "specificationText": "Ηλεκτρολόγοι" }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Ηλεκτρικές Εγκαταστάσεις Οικιακών Κυκλωμάτων (πρίζες, διακόπτες, καλωδίωση, επεκτάσεις κυκλωμάτων, κουτιά διακλάδωσης), Εγκατάσταση & Συντήρηση Φωτιστικών Χώρου (LED, σποτ, φωτιστικά οροφής, απλίκες, φωτισμός εξωτερικού χώρου), Ανακαίνιση & Αντικατάσταση Ηλεκτρικού Πίνακα (νέος πίνακας, ρελέ διαρροής, αντικατάσταση ασφαλειών, μονοφασικός/τριφασικός), Έλεγχος & Επισκευή Ηλεκτρικών Βλαβών (προβλήματα ρεύματος, καμένες πρίζες, βραχυκυκλώματα, διακοπές ρεύματος), Εγκατάσταση Κυκλωμάτων Οικιακών Συσκευών (θερμοσίφωνας, κουζίνα, πλυντήριο, A/C, ξεχωριστό κύκλωμα), Γείωση & Μέτρηση Αντίστασης Ασφαλείας (ράβδος γείωσης, μέτρηση, σύνδεση με πίνακα, έλεγχος ασφαλείας), Έκδοση & Υπογραφή Πιστοποιητικού ΥΔΕ (έλεγχος εγκατάστασης, υπεύθυνη δήλωση, αλλαγή ονόματος ΔΕΔΔΗΕ)"
+      }
+    ]
+  }
+},{
+  "firstName": "Κωνσταντίνος",
+  "lastName": "Αγγελόπουλος",
+  "companyName": "",
+  "email": "km_aggelopoulos@yahoo.gr",
+  "secondaryEmail": "",
+  "phone": "",
+  "mobile": "6977587111",
+  "address": {
+    "street": "",
+    "city": "Τρίπολη",
+    "state": "Αρκαδία",
+    "zip": "221 00",
+    "country": "Ελλάδα"
+  },
+  "minPrice": 20,
+  "maxPrice": 7000,
+  "latitude": 37.5104,
+  "longitude": 22.3728,
+  "serviceRadiusKm": 100,
+
+  "specificationTypeToRequests": {
+    "CATEGORY": [
+      { "specificationKey": "electricians", "specificationText": "Electricians" }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Electrical Installations of Domestic Circuits (sockets, switches, wiring, circuit extensions, junction boxes), Installation & Maintenance of Lighting Systems (LED, spotlights, ceiling lights, wall lamps, outdoor lighting), Renovation & Replacement of Electrical Panel (new panel, residual current device, fuse replacement, single-phase/three-phase), Fault Detection & Electrical Repairs (power issues, burned sockets, short circuits, power interruptions), Installation of Appliance Circuits (water heater, kitchen, washing machine, A/C, dedicated line), Grounding & Safety Resistance Measurement (grounding rod, resistance test, connection to panel, safety verification), Issue & Signing of Power Supply Certificate (ΥΔΕ) (installation inspection, compliance declaration, name change at DEDDHE)"
+      },
+      { "specificationKey": "electrical_design_and_studies", "specificationText": "Electrical Design and Studies" },
+      { "specificationKey": "iot_and_plc_control_applications", "specificationText": "IoT and PLC Control Applications" },
+      { "specificationKey": "photovoltaic_and_net_metering_systems", "specificationText": "Photovoltaic & Net Metering Systems" },
+      { "specificationKey": "heating_and_heat_pump_control_systems", "specificationText": "Heating and Heat Pump Control Systems" },
+      { "specificationKey": "energy_efficiency_and_saving_systems", "specificationText": "Energy Efficiency and Saving Systems" }
+    ]
+  },
+
+  "specificationTypeToRequestsGr": {
+    "CATEGORY": [
+      { "specificationKey": "electricians", "specificationText": "Ηλεκτρολόγοι" }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Ηλεκτρικές Εγκαταστάσεις Οικιακών Κυκλωμάτων (πρίζες, διακόπτες, καλωδίωση, επεκτάσεις κυκλωμάτων, κουτιά διακλάδωσης), Εγκατάσταση & Συντήρηση Φωτιστικών Χώρου (LED, σποτ, φωτιστικά οροφής, απλίκες, φωτισμός εξωτερικού χώρου), Ανακαίνιση & Αντικατάσταση Ηλεκτρικού Πίνακα (νέος πίνακας, ρελέ διαρροής, αντικατάσταση ασφαλειών, μονοφασικός/τριφασικός), Έλεγχος & Επισκευή Ηλεκτρικών Βλαβών (προβλήματα ρεύματος, καμένες πρίζες, βραχυκυκλώματα, διακοπές ρεύματος), Εγκατάσταση Κυκλωμάτων Οικιακών Συσκευών (θερμοσίφωνας, κουζίνα, πλυντήριο, A/C, ξεχωριστό κύκλωμα), Γείωση & Μέτρηση Αντίστασης Ασφαλείας (ράβδος γείωσης, μέτρηση, σύνδεση με πίνακα, έλεγχος ασφαλείας), Έκδοση & Υπογραφή Πιστοποιητικού ΥΔΕ (έλεγχος εγκατάστασης, υπεύθυνη δήλωση, αλλαγή ονόματος ΔΕΔΔΗΕ)"
+      },
+      { "specificationKey": "electrical_design_and_studies", "specificationText": "Ηλεκτρολογικός Σχεδιασμός & Μελέτες" },
+      { "specificationKey": "iot_and_plc_control_applications", "specificationText": "Εφαρμογές Ελέγχου IoT & PLC" },
+      { "specificationKey": "photovoltaic_and_net_metering_systems", "specificationText": "Φωτοβολταϊκά & Net Metering" },
+      { "specificationKey": "heating_and_heat_pump_control_systems", "specificationText": "Συστήματα Ελέγχου Θέρμανσης & Αντλιών Θερμότητας" },
+      { "specificationKey": "energy_efficiency_and_saving_systems", "specificationText": "Συστήματα Ενεργειακής Απόδοσης & Εξοικονόμησης Ενέργειας" }
+    ]
+  }
+},
+{
+  "firstName": "Παναγιώτης",
+  "lastName": "Καλύβας",
+  "companyName": "",
+  "email": "kalyvas.p@gmail.com",
+  "secondaryEmail": "",
+  "phone": "",
+  "mobile": "6974607217",
+  "address": {
+    "street": "28ης Οκτωβρίου 21",
+    "city": "Τρίπολη",
+    "state": "Αρκαδία",
+    "zip": "221 00",
+    "country": "Ελλάδα"
+  },
+  "minPrice": 20,
+  "maxPrice": 7000,
+  "latitude": 37.5116,
+  "longitude": 22.3718,
+  "serviceRadiusKm": 100,
+
+  "specificationTypeToRequests": {
+    "CATEGORY": [
+      { "specificationKey": "electricians", "specificationText": "Electricians" }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Electrical Installations of Domestic Circuits (sockets, switches, wiring, circuit extensions, junction boxes), Installation & Maintenance of Lighting Systems (LED, spotlights, ceiling lights, wall lamps, outdoor lighting), Renovation & Replacement of Electrical Panel (new panel, residual current device, fuse replacement, single-phase/three-phase), Fault Detection & Electrical Repairs (power issues, burned sockets, short circuits, power interruptions), Installation of Appliance Circuits (water heater, kitchen, washing machine, A/C, dedicated line), Grounding & Safety Resistance Measurement (grounding rod, resistance test, connection to panel, safety verification), Issue & Signing of Power Supply Certificate (ΥΔΕ) (installation inspection, compliance declaration, name change at DEDDHE)"
+      },
+      { "specificationKey": "industrial_power_systems", "specificationText": "Industrial Power Systems" },
+      { "specificationKey": "iot_and_plc_control_applications", "specificationText": "IoT and PLC Control Applications" },
+      { "specificationKey": "photovoltaic_and_net_metering_systems", "specificationText": "Photovoltaic & Net Metering Systems" },
+      { "specificationKey": "electrical_design_and_studies", "specificationText": "Electrical Design and Studies" },
+      { "specificationKey": "heating_and_heat_pump_control_systems", "specificationText": "Heating and Heat Pump Control Systems" }
+    ]
+  },
+
+  "specificationTypeToRequestsGr": {
+    "CATEGORY": [
+      { "specificationKey": "electricians", "specificationText": "Ηλεκτρολόγοι" }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Ηλεκτρικές Εγκαταστάσεις Οικιακών Κυκλωμάτων (πρίζες, διακόπτες, καλωδίωση, επεκτάσεις κυκλωμάτων, κουτιά διακλάδωσης), Εγκατάσταση & Συντήρηση Φωτιστικών Χώρου (LED, σποτ, φωτιστικά οροφής, απλίκες, φωτισμός εξωτερικού χώρου), Ανακαίνιση & Αντικατάσταση Ηλεκτρικού Πίνακα (νέος πίνακας, ρελέ διαρροής, αντικατάσταση ασφαλειών, μονοφασικός/τριφασικός), Έλεγχος & Επισκευή Ηλεκτρικών Βλαβών (προβλήματα ρεύματος, καμένες πρίζες, βραχυκυκλώματα, διακοπές ρεύματος), Εγκατάσταση Κυκλωμάτων Οικιακών Συσκευών (θερμοσίφωνας, κουζίνα, πλυντήριο, A/C, ξεχωριστό κύκλωμα), Γείωση & Μέτρηση Αντίστασης Ασφαλείας (ράβδος γείωσης, μέτρηση, σύνδεση με πίνακα, έλεγχος ασφαλείας), Έκδοση & Υπογραφή Πιστοποιητικού ΥΔΕ (έλεγχος εγκατάστασης, υπεύθυνη δήλωση, αλλαγή ονόματος ΔΕΔΔΗΕ)"
+      },
+      { "specificationKey": "industrial_power_systems", "specificationText": "Βιομηχανικά Συστήματα Ισχύος" },
+      { "specificationKey": "iot_and_plc_control_applications", "specificationText": "Εφαρμογές Ελέγχου IoT & PLC" },
+      { "specificationKey": "photovoltaic_and_net_metering_systems", "specificationText": "Φωτοβολταϊκά & Net Metering" },
+      { "specificationKey": "electrical_design_and_studies", "specificationText": "Ηλεκτρολογικός Σχεδιασμός & Μελέτες" },
+      { "specificationKey": "heating_and_heat_pump_control_systems", "specificationText": "Συστήματα Ελέγχου Θέρμανσης & Αντλιών Θερμότητας" }
+    ]
+  }
+},
+{
+  "firstName": "Βασίλειος",
+  "lastName": "Μανάβης",
+  "companyName": "",
+  "email": "manabisbasilis09@gmail.com",
+  "secondaryEmail": "",
+  "phone": "",
+  "mobile": "6974452538",
+  "address": {
+    "street": "Αλέα",
+    "city": "Άργος",
+    "state": "Αργολίδα",
+    "zip": "205 00",
+    "country": "Ελλάδα"
+  },
+  "minPrice": 20,
+  "maxPrice": 7000,
+  "latitude": 37.7511,
+  "longitude": 22.4256,
+  "serviceRadiusKm": 100,
+  "specificationTypeToRequests": {
+    "CATEGORY": [
+      {
+        "specificationKey": "electricians",
+        "specificationText": "Electricians"
+      }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Electrical Installations of Domestic Circuits (sockets, switches, wiring, circuit extensions, junction boxes), Installation & Maintenance of Lighting Systems (LED, spotlights, ceiling lights, wall lamps, outdoor lighting), Renovation & Replacement of Electrical Panel (new panel, residual current device, fuse replacement, single-phase/three-phase), Fault Detection & Electrical Repairs (power issues, burned sockets, short circuits, power interruptions), Installation of Appliance Circuits (water heater, kitchen, washing machine, A/C, dedicated line), Grounding & Safety Resistance Measurement (grounding rod, resistance test, connection to panel, safety verification), Issue & Signing of Power Supply Certificate (ΥΔΕ) (installation inspection, compliance declaration, name change at DEDDHE)"
+      },
+      {
+        "specificationKey": "electrical_design_and_studies",
+        "specificationText": "Electrical Design and Studies"
+      },
+      {
+        "specificationKey": "structured_cabling_and_networks",
+        "specificationText": "Structured Cabling & Communication Networks"
+      },
+      {
+        "specificationKey": "building_automation_and_smart_home_systems",
+        "specificationText": "Building Automation & Smart Home Systems"
+      },
+      {
+        "specificationKey": "fire_detection_and_alarm_systems",
+        "specificationText": "Fire Detection & Alarm Systems"
+      },
+      {
+  "specificationKey": "heating_and_heat_pump_control_systems",
+  "specificationText": "Heating and Heat Pump Control Systems"
+}
+        ]
+  },
+  "specificationTypeToRequestsGr": {
+    "CATEGORY": [
+      {
+        "specificationKey": "electricians",
+        "specificationText": "Ηλεκτρολόγοι"
+      }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Ηλεκτρικές Εγκαταστάσεις Οικιακών Κυκλωμάτων (πρίζες, διακόπτες, καλωδίωση, επεκτάσεις κυκλωμάτων, κουτιά διακλάδωσης), Εγκατάσταση & Συντήρηση Φωτιστικών Χώρου (LED, σποτ, φωτιστικά οροφής, απλίκες, φωτισμός εξωτερικού χώρου), Ανακαίνιση & Αντικατάσταση Ηλεκτρικού Πίνακα (νέος πίνακας, ρελέ διαρροής, αντικατάσταση ασφαλειών, μονοφασικός/τριφασικός), Έλεγχος & Επισκευή Ηλεκτρικών Βλαβών (προβλήματα ρεύματος, καμένες πρίζες, βραχυκυκλώματα, διακοπές ρεύματος), Εγκατάσταση Κυκλωμάτων Οικιακών Συσκευών (θερμοσίφωνας, κουζίνα, πλυντήριο, A/C, ξεχωριστό κύκλωμα), Γείωση & Μέτρηση Αντίστασης Ασφαλείας (ράβδος γείωσης, μέτρηση, σύνδεση με πίνακα, έλεγχος ασφαλείας), Έκδοση & Υπογραφή Πιστοποιητικού ΥΔΕ (έλεγχος εγκατάστασης, υπεύθυνη δήλωση, αλλαγή ονόματος ΔΕΔΔΗΕ)"
+      },
+      {
+        "specificationKey": "electrical_design_and_studies",
+        "specificationText": "Ηλεκτρολογικός Σχεδιασμός & Μελέτες"
+      },
+      {
+        "specificationKey": "structured_cabling_and_networks",
+        "specificationText": "Δίκτυα Επικοινωνίας & Δομημένη Καλωδίωση"
+      },
+      {
+        "specificationKey": "building_automation_and_smart_home_systems",
+        "specificationText": "Αυτοματισμοί Κτιρίων & Smart Home Systems"
+      },
+      {
+        "specificationKey": "fire_detection_and_alarm_systems",
+        "specificationText": "Πυρανίχνευση & Συστήματα Συναγερμού"
+      },
+        {
+  "specificationKey": "heating_and_heat_pump_control_systems",
+  "specificationText": "Συστήματα Ελέγχου Θέρμανσης & Αντλιών Θερμότητας"
+}
+
+    ]
+  }
+},
+{
+  "firstName": "Δημήτριος",
+  "lastName": "Σωτηρόπουλος",
+  "companyName": "",
+  "email": "opcdiso@gmail.com",
+  "secondaryEmail": "",
+  "phone": "",
+  "mobile": "6932551793",
+  "address": {
+    "street": "Δελφών 33",
+    "city": "Αγρίνιο",
+    "state": "Αιτωλοακαρνανία",
+    "zip": "301 31",
+    "country": "Ελλάδα"
+  },
+  "minPrice": 20,
+  "maxPrice": 7000,
+  "latitude": 38.6191,
+  "longitude": 21.4194,
+  "serviceRadiusKm": 100,
+
+  "specificationTypeToRequests": {
+    "CATEGORY": [
+      {
+        "specificationKey": "electricians",
+        "specificationText": "Electricians"
+      }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Electrical Installations of Domestic Circuits (sockets, switches, wiring, circuit extensions, junction boxes), Installation & Maintenance of Lighting Systems (LED, spotlights, ceiling lights, wall lamps, outdoor lighting), Renovation & Replacement of Electrical Panel (new panel, residual current device, fuse replacement, single-phase/three-phase), Fault Detection & Electrical Repairs (power issues, burned sockets, short circuits, power interruptions), Installation of Appliance Circuits (water heater, kitchen, washing machine, A/C, dedicated line), Grounding & Safety Resistance Measurement (grounding rod, resistance test, connection to panel, safety verification), Issue & Signing of Power Supply Certificate (ΥΔΕ) (installation inspection, compliance declaration, name change at DEDDHE)"
+      }
+    ]
+  },
+
+  "specificationTypeToRequestsGr": {
+    "CATEGORY": [
+      {
+        "specificationKey": "electricians",
+        "specificationText": "Ηλεκτρολόγοι"
+      }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Ηλεκτρικές Εγκαταστάσεις Οικιακών Κυκλωμάτων (πρίζες, διακόπτες, καλωδίωση, επεκτάσεις κυκλωμάτων, κουτιά διακλάδωσης), Εγκατάσταση & Συντήρηση Φωτιστικών Χώρου (LED, σποτ, φωτιστικά οροφής, απλίκες, φωτισμός εξωτερικού χώρου), Ανακαίνιση & Αντικατάσταση Ηλεκτρικού Πίνακα (νέος πίνακας, ρελέ διαρροής, αντικατάσταση ασφαλειών, μονοφασικός/τριφασικός), Έλεγχος & Επισκευή Ηλεκτρικών Βλαβών (προβλήματα ρεύματος, καμένες πρίζες, βραχυκυκλώματα, διακοπές ρεύματος), Εγκατάσταση Κυκλωμάτων Οικιακών Συσκευών (θερμοσίφωνας, κουζίνα, πλυντήριο, A/C, ξεχωριστό κύκλωμα), Γείωση & Μέτρηση Αντίστασης Ασφαλείας (ράβδος γείωσης, μέτρηση, σύνδεση με πίνακα, έλεγχος ασφαλείας), Έκδοση & Υπογραφή Πιστοποιητικού ΥΔΕ (έλεγχος εγκατάστασης, υπεύθυνη δήλωση, αλλαγή ονόματος ΔΕΔΔΗΕ)"
+      }
+    ]
+  }
+},
+{
+  "firstName": "Δημήτριος",
+  "lastName": "Γαβρίλης",
+  "companyName": "",
+  "email": "gabrilisdimitris@gmail.com",
+  "secondaryEmail": "",
+  "phone": "2631025635",
+  "mobile": "6946147026",
+  "address": {
+    "street": "",
+    "city": "Μεσολόγγι",
+    "state": "Αιτωλοακαρνανία",
+    "zip": "302 00",
+    "country": "Ελλάδα"
+  },
+  "minPrice": 20,
+  "maxPrice": 7000,
+  "latitude": 38.3689,
+  "longitude": 21.4294,
+  "serviceRadiusKm": 100,
+
+  "specificationTypeToRequests": {
+    "CATEGORY": [
+      {
+        "specificationKey": "electricians",
+        "specificationText": "Electricians"
+      }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Electrical Installations of Domestic Circuits (sockets, switches, wiring, circuit extensions, junction boxes), Installation & Maintenance of Lighting Systems (LED, spotlights, ceiling lights, wall lamps, outdoor lighting), Renovation & Replacement of Electrical Panel (new panel, residual current device, fuse replacement, single-phase/three-phase), Fault Detection & Electrical Repairs (power issues, burned sockets, short circuits, power interruptions), Installation of Appliance Circuits (water heater, kitchen, washing machine, A/C, dedicated line), Grounding & Safety Resistance Measurement (grounding rod, resistance test, connection to panel, safety verification), Issue & Signing of Power Supply Certificate (ΥΔΕ) (installation inspection, compliance declaration, name change at DEDDHE)"
+      },
+      {
+        "specificationKey": "fire_detection_and_alarm_systems",
+        "specificationText": "Fire Detection & Alarm Systems"
+      },
+      {
+        "specificationKey": "structured_cabling_and_networks",
+        "specificationText": "Structured Cabling & Communication Networks"
+      }
+    ]
+  },
+
+  "specificationTypeToRequestsGr": {
+    "CATEGORY": [
+      {
+        "specificationKey": "electricians",
+        "specificationText": "Ηλεκτρολόγοι"
+      }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Ηλεκτρικές Εγκαταστάσεις Οικιακών Κυκλωμάτων (πρίζες, διακόπτες, καλωδίωση, επεκτάσεις κυκλωμάτων, κουτιά διακλάδωσης), Εγκατάσταση & Συντήρηση Φωτιστικών Χώρου (LED, σποτ, φωτιστικά οροφής, απλίκες, φωτισμός εξωτερικού χώρου), Ανακαίνιση & Αντικατάσταση Ηλεκτρικού Πίνακα (νέος πίνακας, ρελέ διαρροής, αντικατάσταση ασφαλειών, μονοφασικός/τριφασικός), Έλεγχος & Επισκευή Ηλεκτρικών Βλαβών (προβλήματα ρεύματος, καμένες πρίζες, βραχυκυκλώματα, διακοπές ρεύματος), Εγκατάσταση Κυκλωμάτων Οικιακών Συσκευών (θερμοσίφωνας, κουζίνα, πλυντήριο, A/C, ξεχωριστό κύκλωμα), Γείωση & Μέτρηση Αντίστασης Ασφαλείας (ράβδος γείωσης, μέτρηση, σύνδεση με πίνακα, έλεγχος ασφαλείας), Έκδοση & Υπογραφή Πιστοποιητικού ΥΔΕ (έλεγχος εγκατάστασης, υπεύθυνη δήλωση, αλλαγή ονόματος ΔΕΔΔΗΕ)"
+      },
+      {
+        "specificationKey": "fire_detection_and_alarm_systems",
+        "specificationText": "Πυρανίχνευση & Συστήματα Συναγερμού"
+      },
+      {
+        "specificationKey": "structured_cabling_and_networks",
+        "specificationText": "Δίκτυα Επικοινωνίας & Δομημένη Καλωδίωση"
+      }
+    ]
+  }
+},
+{
+  "firstName": "Χρήστος",
+  "lastName": "Καλαμάκης",
+  "companyName": "",
+  "email": "xkalamakis@gmail.com",
+  "secondaryEmail": "",
+  "phone": "",
+  "mobile": "6947262675",
+  "address": {
+    "street": "",
+    "city": "Μεσολόγγι",
+    "state": "Αιτωλοακαρνανία",
+    "zip": "302 00",
+    "country": "Ελλάδα"
+  },
+  "minPrice": 20,
+  "maxPrice": 7000,
+  "latitude": 38.3689,
+  "longitude": 21.4290,
+  "serviceRadiusKm": 100,
+
+  "specificationTypeToRequests": {
+    "CATEGORY": [
+      {
+        "specificationKey": "electricians",
+        "specificationText": "Electricians"
+      }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Electrical Installations of Domestic Circuits (sockets, switches, wiring, circuit extensions, junction boxes), Installation & Maintenance of Lighting Systems (LED, spotlights, ceiling lights, wall lamps, outdoor lighting), Renovation & Replacement of Electrical Panel (new panel, residual current device, fuse replacement, single-phase/three-phase), Fault Detection & Electrical Repairs (power issues, burned sockets, short circuits, power interruptions), Installation of Appliance Circuits (water heater, kitchen, washing machine, A/C, dedicated line), Grounding & Safety Resistance Measurement (grounding rod, resistance test, connection to panel, safety verification), Issue & Signing of Power Supply Certificate (ΥΔΕ) (installation inspection, compliance declaration, name change at DEDDHE)"
+      },
+      {
+        "specificationKey": "building_automation_and_smart_home_systems",
+        "specificationText": "Building Automation & Smart Home Systems"
+      }
+    ]
+  },
+
+  "specificationTypeToRequestsGr": {
+    "CATEGORY": [
+      {
+        "specificationKey": "electricians",
+        "specificationText": "Ηλεκτρολόγοι"
+      }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Ηλεκτρικές Εγκαταστάσεις Οικιακών Κυκλωμάτων (πρίζες, διακόπτες, καλωδίωση, επεκτάσεις κυκλωμάτων, κουτιά διακλάδωσης), Εγκατάσταση & Συντήρηση Φωτιστικών Χώρου (LED, σποτ, φωτιστικά οροφής, απλίκες, φωτισμός εξωτερικού χώρου), Ανακαίνιση & Αντικατάσταση Ηλεκτρικού Πίνακα (νέος πίνακας, ρελέ διαρροής, αντικατάσταση ασφαλειών, μονοφασικός/τριφασικός), Έλεγχος & Επισκευή Ηλεκτρικών Βλαβών (προβλήματα ρεύματος, καμένες πρίζες, βραχυκυκλώματα, διακοπές ρεύματος), Εγκατάσταση Κυκλωμάτων Οικιακών Συσκευών (θερμοσίφωνας, κουζίνα, πλυντήριο, A/C, ξεχωριστό κύκλωμα), Γείωση & Μέτρηση Αντίστασης Ασφαλείας (ράβδος γείωσης, μέτρηση, σύνδεση με πίνακα, έλεγχος ασφαλείας), Έκδοση & Υπογραφή Πιστοποιητικού ΥΔΕ (έλεγχος εγκατάστασης, υπεύθυνη δήλωση, αλλαγή ονόματος ΔΕΔΔΗΕ)"
+      },
+      {
+        "specificationKey": "building_automation_and_smart_home_systems",
+        "specificationText": "Αυτοματισμοί Κτιρίων & Smart Home Systems"
+      }
+    ]
+  }
+},
+{
+  "firstName": "Αθανάσιος",
+  "lastName": "Αναγνωστόπουλος",
+  "companyName": "",
+  "email": "anagnostopouloselectric@gmail.com",
+  "secondaryEmail": "",
+  "phone": "2631500081",
+  "mobile": "6998692806",
+  "address": {
+    "street": "Χαρ. Τρικούπη 48",
+    "city": "Μεσολόγγι",
+    "state": "Αιτωλοακαρνανία",
+    "zip": "302 00",
+    "country": "Ελλάδα"
+  },
+  "minPrice": 20,
+  "maxPrice": 7000,
+  "latitude": 38.3694,
+  "longitude": 21.4262,
+  "serviceRadiusKm": 100,
+
+  "specificationTypeToRequests": {
+    "CATEGORY": [
+      {
+        "specificationKey": "electricians",
+        "specificationText": "Electricians"
+      }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Electrical Installations of Domestic Circuits (sockets, switches, wiring, circuit extensions, junction boxes), Installation & Maintenance of Lighting Systems (LED, spotlights, ceiling lights, wall lamps, outdoor lighting), Renovation & Replacement of Electrical Panel (new panel, residual current device, fuse replacement, single-phase/three-phase), Fault Detection & Electrical Repairs (power issues, burned sockets, short circuits, power interruptions), Installation of Appliance Circuits (water heater, kitchen, washing machine, A/C, dedicated line), Grounding & Safety Resistance Measurement (grounding rod, resistance test, connection to panel, safety verification), Issue & Signing of Power Supply Certificate (ΥΔΕ) (installation inspection, compliance declaration, name change at DEDDHE)"
+      },
+      {
+        "specificationKey": "building_automation_and_smart_home_systems",
+        "specificationText": "Building Automation & Smart Home Systems"
+      }
+    ]
+  },
+
+  "specificationTypeToRequestsGr": {
+    "CATEGORY": [
+      {
+        "specificationKey": "electricians",
+        "specificationText": "Ηλεκτρολόγοι"
+      }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Ηλεκτρικές Εγκαταστάσεις Οικιακών Κυκλωμάτων (πρίζες, διακόπτες, καλωδίωση, επεκτάσεις κυκλωμάτων, κουτιά διακλάδωσης), Εγκατάσταση & Συντήρηση Φωτιστικών Χώρου (LED, σποτ, φωτιστικά οροφής, απλίκες, φωτισμός εξωτερικού χώρου), Ανακαίνιση & Αντικατάσταση Ηλεκτρικού Πίνακα (νέος πίνακας, ρελέ διαρροής, αντικατάσταση ασφαλειών, μονοφασικός/τριφασικός), Έλεγχος & Επισκευή Ηλεκτρικών Βλαβών (προβλήματα ρεύματος, καμένες πρίζες, βραχυκυκλώματα, διακοπές ρεύματος), Εγκατάσταση Κυκλωμάτων Οικιακών Συσκευών (θερμοσίφωνας, κουζίνα, πλυντήριο, A/C, ξεχωριστό κύκλωμα), Γείωση & Μέτρηση Αντίστασης Ασφαλείας (ράβδος γείωσης, μέτρηση, σύνδεση με πίνακα, έλεγχος ασφαλείας), Έκδοση & Υπογραφή Πιστοποιητικού ΥΔΕ (έλεγχος εγκατάστασης, υπεύθυνη δήλωση, αλλαγή ονόματος ΔΕΔΔΗΕ)"
+      },
+      {
+        "specificationKey": "building_automation_and_smart_home_systems",
+        "specificationText": "Αυτοματισμοί Κτιρίων & Smart Home Systems"
+      }
+    ]
+  }
+},
+{
+  "firstName": "Νικόλαος",
+  "lastName": "Παπέλης",
+  "companyName": "ΗΛΕΚΤΡΟΤΕΧΝΙΚΗ",
+  "email": "nikpapelis@yahoo.gr",
+  "secondaryEmail": "",
+  "phone": "2631400528",
+  "mobile": "6986912900",
+  "address": {
+    "street": "Ζάχου Μήλιου 19",
+    "city": "Μεσολόγγι",
+    "state": "Αιτωλοακαρνανία",
+    "zip": "302 00",
+    "country": "Ελλάδα"
+  },
+  "minPrice": 20,
+  "maxPrice": 7000,
+  "latitude": 38.3698,
+  "longitude": 21.4346,
+  "serviceRadiusKm": 100,
+
+  "specificationTypeToRequests": {
+    "CATEGORY": [
+      {
+        "specificationKey": "electricians",
+        "specificationText": "Electricians"
+      }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Electrical Installations of Domestic Circuits (sockets, switches, wiring, circuit extensions, junction boxes), Installation & Maintenance of Lighting Systems (LED, spotlights, ceiling lights, wall lamps, outdoor lighting), Renovation & Replacement of Electrical Panel (new panel, residual current device, fuse replacement, single-phase/three-phase), Fault Detection & Electrical Repairs (power issues, burned sockets, short circuits, power interruptions), Installation of Appliance Circuits (water heater, kitchen, washing machine, A/C, dedicated line), Grounding & Safety Resistance Measurement (grounding rod, resistance test, connection to panel, safety verification), Issue & Signing of Power Supply Certificate (ΥΔΕ) (installation inspection, compliance declaration, name change at DEDDHE)"
+      },
+      {
+        "specificationKey": "structured_cabling_and_networks",
+        "specificationText": "Structured Cabling & Communication Networks"
+      },
+      {
+        "specificationKey": "building_automation_and_smart_home_systems",
+        "specificationText": "Building Automation & Smart Home Systems"
+      },
+      {
+        "specificationKey": "electrical_design_and_studies",
+        "specificationText": "Electrical Design and Studies"
+      }
+    ]
+  },
+
+  "specificationTypeToRequestsGr": {
+    "CATEGORY": [
+      {
+        "specificationKey": "electricians",
+        "specificationText": "Ηλεκτρολόγοι"
+      }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Ηλεκτρικές Εγκαταστάσεις Οικιακών Κυκλωμάτων (πρίζες, διακόπτες, καλωδίωση, επεκτάσεις κυκλωμάτων, κουτιά διακλάδωσης), Εγκατάσταση & Συντήρηση Φωτιστικών Χώρου (LED, σποτ, φωτιστικά οροφής, πλαφονιέρες, φωτισμός εξωτερικού χώρου), Ανακαίνιση & Αντικατάσταση Ηλεκτρικού Πίνακα (νέος πίνακας, ρελέ διαρροής, αντικατάσταση ασφαλειών, μονοφασικός/τριφασικός), Έλεγχος & Επισκευή Ηλεκτρικών Βλαβών (προβλήματα ρεύματος, καμένες πρίζες, βραχυκυκλώματα, διακοπές ρεύματος), Εγκατάσταση Κυκλωμάτων Οικιακών Συσκευών (θερμοσίφωνας, κουζίνα, πλυντήριο, A/C, ξεχωριστό κύκλωμα), Γείωση & Μέτρηση Αντίστασης Ασφαλείας (ράβδος γείωσης, μέτρηση, σύνδεση με πίνακα, έλεγχος ασφαλείας), Έκδοση & Υπογραφή Πιστοποιητικού ΥΔΕ (έλεγχος εγκατάστασης, υπεύθυνη δήλωση, αλλαγή ονόματος ΔΕΔΔΗΕ)"
+      },
+      {
+        "specificationKey": "structured_cabling_and_networks",
+        "specificationText": "Δίκτυα Επικοινωνίας & Δομημένη Καλωδίωση"
+      },
+      {
+        "specificationKey": "building_automation_and_smart_home_systems",
+        "specificationText": "Αυτοματισμοί Κτιρίων & Smart Home Systems"
+      },
+      {
+        "specificationKey": "electrical_design_and_studies",
+        "specificationText": "Ηλεκτρολογικός Σχεδιασμός & Μελέτες"
+      }
+    ]
+  }
+},
+{
+  "firstName": "Ευθύμιος",
+  "lastName": "Πράπας",
+  "companyName": "",
+  "email": "thimiosprap@hotmail.com",
+  "secondaryEmail": "",
+  "phone": "2634025253",
+  "mobile": "6944592551",
+  "address": {
+    "street": "",
+    "city": "Ναύπακτος",
+    "state": "Αιτωλοακαρνανία",
+    "zip": "303 00",
+    "country": "Ελλάδα"
+  },
+  "minPrice": 20,
+  "maxPrice": 7000,
+  "latitude": 38.3930,
+  "longitude": 21.8344,
+  "serviceRadiusKm": 100,
+
+  "specificationTypeToRequests": {
+    "CATEGORY": [
+      {
+        "specificationKey": "electricians",
+        "specificationText": "Electricians"
+      }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Electrical Installations of Domestic Circuits (sockets, switches, wiring, circuit extensions, junction boxes), Installation & Maintenance of Lighting Systems (LED, spotlights, ceiling lights, wall lamps, outdoor lighting), Renovation & Replacement of Electrical Panel (new panel, residual current device, fuse replacement, single-phase/three-phase), Fault Detection & Electrical Repairs (power issues, burned sockets, short circuits, power interruptions), Installation of Appliance Circuits (water heater, kitchen, washing machine, A/C, dedicated line), Grounding & Safety Resistance Measurement (grounding rod, resistance test, connection to panel, safety verification), Issue & Signing of Power Supply Certificate (ΥΔΕ) (installation inspection, compliance declaration, name change at DEDDHE)"
+      },
+      {
+        "specificationKey": "industrial_power_systems",
+        "specificationText": "Industrial Power Systems"
+      },
+      {
+        "specificationKey": "electrical_design_and_studies",
+        "specificationText": "Electrical Design and Studies"
+      },
+      {
+        "specificationKey": "ups_and_power_backup_systems",
+        "specificationText": "UPS, Generators & Power Backup Systems"
+      }
+    ],
+    "SAFETY": [
+      {
+        "specificationKey": "license_category_a_110",
+        "specificationText": "Category A License No.110 (Building Installations)"
+      },
+      {
+        "specificationKey": "license_category_c_455",
+        "specificationText": "Category C License No.455 (Industrial Buildings – Motors)"
+      },
+      {
+        "specificationKey": "license_category_f_461",
+        "specificationText": "Category F License No.461 (Underground / Overhead Networks)"
+      }
+    ]
+  },
+
+  "specificationTypeToRequestsGr": {
+    "CATEGORY": [
+      {
+        "specificationKey": "electricians",
+        "specificationText": "Ηλεκτρολόγοι"
+      }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Ηλεκτρικές Εγκαταστάσεις Οικιακών Κυκλωμάτων (πρίζες, διακόπτες, καλωδίωση, επεκτάσεις κυκλωμάτων, κουτιά διακλάδωσης), Εγκατάσταση & Συντήρηση Φωτιστικών Χώρου (LED, σποτ, φωτιστικά οροφής, απλίκες, φωτισμός εξωτερικού χώρου), Ανακαίνιση & Αντικατάσταση Ηλεκτρικού Πίνακα (νέος πίνακας, ρελέ διαρροής, αντικατάσταση ασφαλειών, μονοφασικός/τριφασικός), Έλεγχος & Επισκευή Ηλεκτρικών Βλαβών (προβλήματα ρεύματος, καμένες πρίζες, βραχυκυκλώματα, διακοπές ρεύματος), Εγκατάσταση Κυκλωμάτων Οικιακών Συσκευών (θερμοσίφωνας, κουζίνα, πλυντήριο, A/C, ξεχωριστό κύκλωμα), Γείωση & Μέτρηση Αντίστασης Ασφαλείας (ράβδος γείωσης, μέτρηση, σύνδεση με πίνακα, έλεγχος ασφαλείας), Έκδοση & Υπογραφή Πιστοποιητικού ΥΔΕ (έλεγχος εγκατάστασης, υπεύθυνη δήλωση, αλλαγή ονόματος ΔΕΔΔΗΕ)"
+      },
+      {
+        "specificationKey": "industrial_power_systems",
+        "specificationText": "Βιομηχανικά Συστήματα Ισχύος"
+      },
+      {
+        "specificationKey": "electrical_design_and_studies",
+        "specificationText": "Ηλεκτρολογικός Σχεδιασμός & Μελέτες"
+      },
+      {
+        "specificationKey": "ups_and_power_backup_systems",
+        "specificationText": "UPS, Γεννήτριες & Ενεργειακή Εφεδρεία"
+      }
+    ],
+    "SAFETY": [
+      {
+        "specificationKey": "license_category_a_110",
+        "specificationText": "Άδεια Α’ Ειδικότητας Α.Α 110 (κτιρίων)"
+      },
+      {
+        "specificationKey": "license_category_c_455",
+        "specificationText": "Άδεια Γ’ Ειδικότητας Α.Α 455 (βιομηχανικά κτίρια – μοτέρ)"
+      },
+      {
+        "specificationKey": "license_category_f_461",
+        "specificationText": "Άδεια ΣΤ’ Ειδικότητας Α.Α 461 (υπόγεια/εναέρια δίκτυα)"
+      }
+    ]
+  }
+},
+{
+  "firstName": "Χρήστος",
+  "lastName": "Σακκούλης",
+  "companyName": "",
+  "email": "sakkoulisx@gmail.com",
+  "secondaryEmail": "",
+  "phone": "2634021942",
+  "mobile": "6944840815",
+  "address": {
+    "street": "Πλατεία Τζαβελλαίων 13",
+    "city": "Ναύπακτος",
+    "state": "Αιτωλοακαρνανία",
+    "zip": "303 00",
+    "country": "Ελλάδα"
+  },
+  "minPrice": 20,
+  "maxPrice": 7000,
+  "latitude": 38.3939,
+  "longitude": 21.8393,
+  "serviceRadiusKm": 100,
+
+  "specificationTypeToRequests": {
+    "CATEGORY": [
+      {
+        "specificationKey": "electricians",
+        "specificationText": "Electricians"
+      }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Electrical Installations of Domestic Circuits (sockets, switches, wiring, circuit extensions, junction boxes), Installation & Maintenance of Lighting Systems (LED, spotlights, ceiling lights, wall lamps, outdoor lighting), Renovation & Replacement of Electrical Panel (new panel, residual current device, fuse replacement, single-phase/three-phase), Fault Detection & Electrical Repairs (power issues, burned sockets, short circuits, power interruptions), Installation of Appliance Circuits (water heater, kitchen, washing machine, A/C, dedicated line), Grounding & Safety Resistance Measurement (grounding rod, resistance test, connection to panel, safety verification), Issue & Signing of Power Supply Certificate (ΥΔΕ) (installation inspection, compliance declaration, name change at DEDDHE)"
+      }
+    ]
+  },
+
+  "specificationTypeToRequestsGr": {
+    "CATEGORY": [
+      {
+        "specificationKey": "electricians",
+        "specificationText": "Ηλεκτρολόγοι"
+      }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Ηλεκτρικές Εγκαταστάσεις Οικιακών Κυκλωμάτων (πρίζες, διακόπτες, καλωδίωση, επεκτάσεις κυκλωμάτων, κουτιά διακλάδωσης), Εγκατάσταση & Συντήρηση Φωτιστικών Χώρου (LED, σποτ, φωτιστικά οροφής, απλίκες, φωτισμός εξωτερικού χώρου), Ανακαίνιση & Αντικατάσταση Ηλεκτρικού Πίνακα (νέος πίνακας, ρελέ διαρροής, αντικατάσταση ασφαλειών, μονοφασικός/τριφασικός), Έλεγχος & Επισκευή Ηλεκτρικών Βλαβών (προβλήματα ρεύματος, καμένες πρίζες, βραχυκυκλώματα, διακοπές ρεύματος), Εγκατάσταση Κυκλωμάτων Οικιακών Συσκευών (θερμοσίφωνας, κουζίνα, πλυντήριο, A/C, ξεχωριστό κύκλωμα), Γείωση & Μέτρηση Αντίστασης Ασφαλείας (ράβδος γείωσης, μέτρηση, σύνδεση με πίνακα, έλεγχος ασφαλείας), Έκδοση & Υπογραφή Πιστοποιητικού ΥΔΕ (έλεγχος εγκατάστασης, υπεύθυνη δήλωση, αλλαγή ονόματος ΔΕΔΔΗΕ)"
+      }
+    ]
+  }
+},
+{
+  "firstName": "Μάρκος",
+  "lastName": "Φαλτσέτος",
+  "companyName": "KNX SMART HOME",
+  "email": "markosfaltsetos@gmail.com",
+  "secondaryEmail": "",
+  "phone": "2634022637",
+  "mobile": "6945862461",
+  "address": {
+    "street": "Ίλαρχου Τζαβέλλα 40",
+    "city": "Ναύπακτος",
+    "state": "Αιτωλοακαρνανία",
+    "zip": "303 00",
+    "country": "Ελλάδα"
+  },
+  "minPrice": 20,
+  "maxPrice": 7000,
+  "latitude": 38.3938,
+  "longitude": 21.8306,
+  "serviceRadiusKm": 100,
+
+  "specificationTypeToRequests": {
+    "CATEGORY": [
+      {
+        "specificationKey": "electricians",
+        "specificationText": "Electricians"
+      }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Electrical Installations of Domestic Circuits (sockets, switches, wiring, circuit extensions, junction boxes), Installation & Maintenance of Lighting Systems (LED, spotlights, ceiling lights, wall lamps, outdoor lighting), Renovation & Replacement of Electrical Panel (new panel, residual current device, fuse replacement, single-phase/three-phase), Fault Detection & Electrical Repairs (power issues, burned sockets, short circuits, power interruptions), Installation of Appliance Circuits (water heater, kitchen, washing machine, A/C, dedicated line), Grounding & Safety Resistance Measurement (grounding rod, resistance test, connection to panel, safety verification), Issue & Signing of Power Supply Certificate (ΥΔΕ) (installation inspection, compliance declaration, name change at DEDDHE)"
+      },
+      {
+        "specificationKey": "building_automation_and_smart_home_systems",
+        "specificationText": "Building Automation & Smart Home Systems"
+      },
+      {
+        "specificationKey": "electrical_design_and_studies",
+        "specificationText": "Electrical Design and Studies"
+      }
+    ],
+    "SAFETY": [
+      {
+        "specificationKey": "knx_partner_certification",
+        "specificationText": "KNX Partner"
+      }
+    ]
+  },
+
+  "specificationTypeToRequestsGr": {
+    "CATEGORY": [
+      {
+        "specificationKey": "electricians",
+        "specificationText": "Ηλεκτρολόγοι"
+      }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Ηλεκτρικές Εγκαταστάσεις Οικιακών Κυκλωμάτων (πρίζες, διακόπτες, καλωδίωση, επεκτάσεις κυκλωμάτων, κουτιά διακλάδωσης), Εγκατάσταση & Συντήρηση Φωτιστικών Χώρου (LED, σποτ, φωτιστικά οροφής, απλίκες, φωτισμός εξωτερικού χώρου), Ανακαίνιση & Αντικατάσταση Ηλεκτρικού Πίνακα (νέος πίνακας, ρελέ διαρροής, αντικατάσταση ασφαλειών, μονοφασικός/τριφασικός), Έλεγχος & Επισκευή Ηλεκτρικών Βλαβών (προβλήματα ρεύματος, καμένες πρίζες, βραχυκυκλώματα, διακοπές ρεύματος), Εγκατάσταση Κυκλωμάτων Οικιακών Συσκευών (θερμοσίφωνας, κουζίνα, πλυντήριο, A/C, ξεχωριστό κύκλωμα), Γείωση & Μέτρηση Αντίστασης Ασφαλείας (ράβδος γείωσης, μέτρηση, σύνδεση με πίνακα, έλεγχος ασφαλείας), Έκδοση & Υπογραφή Πιστοποιητικού ΥΔΕ (έλεγχος εγκατάστασης, υπεύθυνη δήλωση, αλλαγή ονόματος ΔΕΔΔΗΕ)"
+      },
+      {
+        "specificationKey": "building_automation_and_smart_home_systems",
+        "specificationText": "Αυτοματισμοί Κτιρίων & Smart Home Systems"
+      },
+      {
+        "specificationKey": "electrical_design_and_studies",
+        "specificationText": "Ηλεκτρολογικός Σχεδιασμός & Μελέτες"
+      }
+    ],
+    "SAFETY": [
+      {
+        "specificationKey": "knx_partner_certification",
+        "specificationText": "Συνεργάτης KNX"
+      }
+    ]
+  }
+},
+{
+  "firstName": "Γεώργιος",
+  "lastName": "Καλαντζής",
+  "companyName": "",
+  "email": "gkalantzis86@hotmail.com",
+  "secondaryEmail": "",
+  "phone": "",
+  "mobile": "6997269296",
+  "address": {
+    "street": "Κουντουριώτη 3",
+    "city": "Άγιος Κωνσταντίνος",
+    "state": "Αιτωλοακαρνανία",
+    "zip": "300 27",
+    "country": "Ελλάδα"
+  },
+  "minPrice": 20,
+  "maxPrice": 7000,
+  "latitude": 38.6336,
+  "longitude": 21.4017,
+  "serviceRadiusKm": 100,
+
+  "specificationTypeToRequests": {
+    "CATEGORY": [
+      {
+        "specificationKey": "electricians",
+        "specificationText": "Electricians"
+      }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Electrical Installations of Domestic Circuits (sockets, switches, wiring, circuit extensions, junction boxes), Installation & Maintenance of Lighting Systems (LED, spotlights, ceiling lights, wall lamps, outdoor lighting), Renovation & Replacement of Electrical Panel (new panel, residual current device, fuse replacement, single-phase/three-phase), Fault Detection & Electrical Repairs (power issues, burned sockets, short circuits, power interruptions), Installation of Appliance Circuits (water heater, kitchen, washing machine, A/C, dedicated line), Grounding & Safety Resistance Measurement (grounding rod, resistance test, connection to panel, safety verification), Issue & Signing of Power Supply Certificate (ΥΔΕ) (installation inspection, compliance declaration, name change at DEDDHE)"
+      },
+      {
+        "specificationKey": "electrical_design_and_studies",
+        "specificationText": "Electrical Design and Studies"
+      },
+      {
+        "specificationKey": "fire_detection_and_alarm_systems",
+        "specificationText": "Fire Detection & Alarm Systems"
+      }
+    ]
+  },
+
+  "specificationTypeToRequestsGr": {
+    "CATEGORY": [
+      {
+        "specificationKey": "electricians",
+        "specificationText": "Ηλεκτρολόγοι"
+      }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Ηλεκτρικές Εγκαταστάσεις Οικιακών Κυκλωμάτων (πρίζες, διακόπτες, καλωδίωση, επεκτάσεις κυκλωμάτων, κουτιά διακλάδωσης), Εγκατάσταση & Συντήρηση Φωτιστικών Χώρου (LED, σποτ, φωτιστικά οροφής, απλίκες, φωτισμός εξωτερικού χώρου), Ανακαίνιση & Αντικατάσταση Ηλεκτρικού Πίνακα (νέος πίνακας, ρελέ διαρροής, αντικατάσταση ασφαλειών, μονοφασικός/τριφασικός), Έλεγχος & Επισκευή Ηλεκτρικών Βλαβών (προβλήματα ρεύματος, καμένες πρίζες, βραχυκυκλώματα, διακοπές ρεύματος), Εγκατάσταση Κυκλωμάτων Οικιακών Συσκευών (θερμοσίφωνας, κουζίνα, πλυντήριο, A/C, ξεχωριστό κύκλωμα), Γείωση & Μέτρηση Αντίστασης Ασφαλείας (ράβδος γείωσης, μέτρηση, σύνδεση με πίνακα, έλεγχος ασφαλείας), Έκδοση & Υπογραφή Πιστοποιητικού ΥΔΕ (έλεγχος εγκατάστασης, υπεύθυνη δήλωση, αλλαγή ονόματος ΔΕΔΔΗΕ)"
+      },
+      {
+        "specificationKey": "electrical_design_and_studies",
+        "specificationText": "Ηλεκτρολογικός Σχεδιασμός & Μελέτες"
+      },
+      {
+        "specificationKey": "fire_detection_and_alarm_systems",
+        "specificationText": "Πυρανίχνευση & Συστήματα Συναγερμού"
+      }
+    ]
+  }
+},
+{
+  "firstName": "Δημήτριος",
+  "lastName": "Ζώργιος",
+  "companyName": "ΖΩΡΓΙΟΣ ΟΕ",
+  "email": "info@zorgios.gr",
+  "secondaryEmail": "",
+  "phone": "2634027195",
+  "mobile": "6936755735",
+  "address": {
+    "street": "3ο χλμ. Ε.Ο. Ναυπάκτου – Ιτέας",
+    "city": "Ναύπακτος",
+    "state": "Αιτωλοακαρνανία",
+    "zip": "303 00",
+    "country": "Ελλάδα"
+  },
+  "minPrice": 20,
+  "maxPrice": 7000,
+  "latitude": 38.4070,
+  "longitude": 21.8663,
+  "serviceRadiusKm": 100,
+
+  "specificationTypeToRequests": {
+    "CATEGORY": [
+      {
+        "specificationKey": "electricians",
+        "specificationText": "Electricians"
+      }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Electrical Installations of Domestic Circuits (sockets, switches, wiring, circuit extensions, junction boxes), Installation & Maintenance of Lighting Systems (LED, spotlights, ceiling lights, wall lamps, outdoor lighting), Renovation & Replacement of Electrical Panel (new panel, residual current device, fuse replacement, single-phase/three-phase), Fault Detection & Electrical Repairs (power issues, burned sockets, short circuits, power interruptions), Installation of Appliance Circuits (water heater, kitchen, washing machine, A/C, dedicated line), Grounding & Safety Resistance Measurement (grounding rod, resistance test, connection to panel, safety verification), Issue & Signing of Power Supply Certificate (ΥΔΕ) (installation inspection, compliance declaration, name change at DEDDHE)"
+      },
+      {
+        "specificationKey": "industrial_power_systems",
+        "specificationText": "Industrial Power Systems"
+      },
+      {
+        "specificationKey": "iot_and_plc_control_applications",
+        "specificationText": "IoT / PLC Control Applications"
+      }
+    ]
+  },
+
+  "specificationTypeToRequestsGr": {
+    "CATEGORY": [
+      {
+        "specificationKey": "electricians",
+        "specificationText": "Ηλεκτρολόγοι"
+      }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Ηλεκτρικές Εγκαταστάσεις Οικιακών Κυκλωμάτων (πρίζες, διακόπτες, καλωδίωση, επεκτάσεις κυκλωμάτων, κουτιά διακλάδωσης), Εγκατάσταση & Συντήρηση Φωτιστικών Χώρου (LED, σποτ, φωτιστικά οροφής, απλίκες, φωτισμός εξωτερικού χώρου), Ανακαίνιση & Αντικατάσταση Ηλεκτρικού Πίνακα (νέος πίνακας, ρελέ διαρροής, αντικατάσταση ασφαλειών, μονοφασικός/τριφασικός), Έλεγχος & Επισκευή Ηλεκτρικών Βλαβών (προβλήματα ρεύματος, καμένες πρίζες, βραχυκυκλώματα, διακοπές ρεύματος), Εγκατάσταση Κυκλωμάτων Οικιακών Συσκευών (θερμοσίφωνας, κουζίνα, πλυντήριο, A/C, ξεχωριστό κύκλωμα), Γείωση & Μέτρηση Αντίστασης Ασφαλείας (ράβδος γείωσης, μέτρηση, σύνδεση με πίνακα, έλεγχος ασφαλείας), Έκδοση & Υπογραφή Πιστοποιητικού ΥΔΕ (έλεγχος εγκατάστασης, υπεύθυνη δήλωση, αλλαγή ονόματος ΔΕΔΔΗΕ)"
+      },
+      {
+        "specificationKey": "industrial_power_systems",
+        "specificationText": "Βιομηχανικά Συστήματα Ισχύος"
+      },
+      {
+        "specificationKey": "iot_and_plc_control_applications",
+        "specificationText": "IoT / PLC Εφαρμογές Ελέγχου"
+      }
+    ]
+  }
+},
+{
+  "firstName": "Παναγιώτης",
+  "lastName": "Βασιλόπουλος",
+  "companyName": "",
+  "email": "vasilopoulosfpanos@gmail.com",
+  "secondaryEmail": "",
+  "phone": "2641054572",
+  "mobile": "6977612999",
+  "address": {
+    "street": "Δροσίνη 66",
+    "city": "Αγρίνιο",
+    "state": "Αιτωλοακαρνανία",
+    "zip": "301 31",
+    "country": "Ελλάδα"
+  },
+  "minPrice": 20,
+  "maxPrice": 7000,
+  "latitude": 38.6239,
+  "longitude": 21.3993,
+  "serviceRadiusKm": 100,
+
+  "specificationTypeToRequests": {
+    "CATEGORY": [
+      {
+        "specificationKey": "electricians",
+        "specificationText": "Electricians"
+      }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Electrical Installations of Domestic Circuits (sockets, switches, wiring, circuit extensions, junction boxes), Installation & Maintenance of Lighting Systems (LED, spotlights, ceiling lights, wall lamps, outdoor lighting), Renovation & Replacement of Electrical Panel (new panel, residual current device, fuse replacement, single-phase/three-phase), Fault Detection & Electrical Repairs (power issues, burned sockets, short circuits, power interruptions), Installation of Appliance Circuits (water heater, kitchen, washing machine, A/C, dedicated line), Grounding & Safety Resistance Measurement (grounding rod, resistance test, connection to panel, safety verification), Issue & Signing of Power Supply Certificate (ΥΔΕ) (installation inspection, compliance declaration, name change at DEDDHE)"
+      }
+    ]
+  },
+
+  "specificationTypeToRequestsGr": {
+    "CATEGORY": [
+      {
+        "specificationKey": "electricians",
+        "specificationText": "Ηλεκτρολόγοι"
+      }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Ηλεκτρικές Εγκαταστάσεις Οικιακών Κυκλωμάτων (πρίζες, διακόπτες, καλωδίωση, επεκτάσεις κυκλωμάτων, κουτιά διακλάδωσης), Εγκατάσταση & Συντήρηση Φωτιστικών Χώρου (LED, σποτ, φωτιστικά οροφής, απλίκες, φωτισμός εξωτερικού χώρου), Ανακαίνιση & Αντικατάσταση Ηλεκτρικού Πίνακα (νέος πίνακας, ρελέ διαρροής, αντικατάσταση ασφαλειών, μονοφασικός/τριφασικός), Έλεγχος & Επισκευή Ηλεκτρικών Βλαβών (προβλήματα ρεύματος, καμένες πρίζες, βραχυκυκλώματα, διακοπές ρεύματος), Εγκατάσταση Κυκλωμάτων Οικιακών Συσκευών (θερμοσίφωνας, κουζίνα, πλυντήριο, A/C, ξεχωριστό κύκλωμα), Γείωση & Μέτρηση Αντίστασης Ασφαλείας (ράβδος γείωσης, μέτρηση, σύνδεση με πίνακα, έλεγχος ασφαλείας), Έκδοση & Υπογραφή Πιστοποιητικού ΥΔΕ (έλεγχος εγκατάστασης, υπεύθυνη δήλωση, αλλαγή ονόματος ΔΕΔΔΗΕ)"
+      }
+    ]
+  }
+},
+{
+  "firstName": "Γεώργιος",
+  "lastName": "Γουρουνάς",
+  "companyName": "",
+  "email": "ggourounas@yahoo.gr",
+  "secondaryEmail": "",
+  "phone": "",
+  "mobile": "6974419293",
+  "address": {
+    "street": "Θυρείου",
+    "city": "Βόνιτσα",
+    "state": "Αιτωλοακαρνανία",
+    "zip": "300 02",
+    "country": "Ελλάδα"
+  },
+  "minPrice": 20,
+  "maxPrice": 7000,
+  "latitude": 38.9140,
+  "longitude": 20.8884,
+  "serviceRadiusKm": 100,
+  "specificationTypeToRequests": {
+    "CATEGORY": [
+      {
+        "specificationKey": "electricians",
+        "specificationText": "Electricians"
+      }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Electrical Installations of Domestic Circuits (sockets, switches, wiring, circuit extensions, junction boxes), Installation & Maintenance of Lighting Systems (LED, spotlights, ceiling lights, wall lamps, outdoor lighting), Renovation & Replacement of Electrical Panel (new panel, residual current device, fuse replacement, single-phase/three-phase), Fault Detection & Electrical Repairs (power issues, burned sockets, short circuits, power interruptions), Installation of Appliance Circuits (water heater, kitchen, washing machine, A/C, dedicated line), Grounding & Safety Resistance Measurement (grounding rod, resistance test, connection to panel, safety verification), Issue & Signing of Power Supply Certificate (ΥΔΕ) (installation inspection, compliance declaration, name change at DEDDHE)"
+      }
+    ]
+  },
+  "specificationTypeToRequestsGr": {
+    "CATEGORY": [
+      {
+        "specificationKey": "electricians",
+        "specificationText": "Ηλεκτρολόγοι"
+      }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Ηλεκτρικές Εγκαταστάσεις Οικιακών Κυκλωμάτων (πρίζες, διακόπτες, καλωδίωση, επεκτάσεις κυκλωμάτων, κουτιά διακλάδωσης), Εγκατάσταση & Συντήρηση Φωτιστικών Χώρου (LED, σποτ, φωτιστικά οροφής, απλίκες, φωτισμός εξωτερικού χώρου), Ανακαίνιση & Αντικατάσταση Ηλεκτρικού Πίνακα (νέος πίνακας, ρελέ διαρροής, αντικατάσταση ασφαλειών, μονοφασικός/τριφασικός), Έλεγχος & Επισκευή Ηλεκτρικών Βλαβών (προβλήματα ρεύματος, καμένες πρίζες, βραχυκυκλώματα, διακοπές ρεύματος), Εγκατάσταση Κυκλωμάτων Οικιακών Συσκευών (θερμοσίφωνας, κουζίνα, πλυντήριο, A/C, ξεχωριστό κύκλωμα), Γείωση & Μέτρηση Αντίστασης Ασφαλείας (ράβδος γείωσης, μέτρηση, σύνδεση με πίνακα, έλεγχος ασφαλείας), Έκδοση & Υπογραφή Πιστοποιητικού ΥΔΕ (έλεγχος εγκατάστασης, υπεύθυνη δήλωση, αλλαγή ονόματος ΔΕΔΔΗΕ)"
+      }
+    ]
+  }
+},
+{
+  "firstName": "Ιωάννης",
+  "lastName": "Χούσος",
+  "companyName": "",
+  "email": "johnhousos@hotmail.com",
+  "secondaryEmail": "",
+  "phone": "",
+  "mobile": "6984720307",
+  "address": {
+    "street": "",
+    "city": "Βόνιτσα",
+    "state": "Αιτωλοακαρνανία",
+    "zip": "300 02",
+    "country": "Ελλάδα"
+  },
+  "minPrice": 20,
+  "maxPrice": 7000,
+  "latitude": 38.9189,
+  "longitude": 20.8889,
+  "serviceRadiusKm": 100,
+  "specificationTypeToRequests": {
+    "CATEGORY": [
+      {
+        "specificationKey": "electricians",
+        "specificationText": "Electricians"
+      }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Electrical Installations of Domestic Circuits (sockets, switches, wiring, circuit extensions, junction boxes), Installation & Maintenance of Lighting Systems (LED, spotlights, ceiling lights, wall lamps, outdoor lighting), Renovation & Replacement of Electrical Panel (new panel, residual current device, fuse replacement, single-phase/three-phase), Fault Detection & Electrical Repairs (power issues, burned sockets, short circuits, power interruptions), Installation of Appliance Circuits (water heater, kitchen, washing machine, A/C, dedicated line), Grounding & Safety Resistance Measurement (grounding rod, resistance test, connection to panel, safety verification), Issue & Signing of Power Supply Certificate (ΥΔΕ) (installation inspection, compliance declaration, name change at DEDDHE)"
+      }
+    ]
+  },
+  "specificationTypeToRequestsGr": {
+    "CATEGORY": [
+      {
+        "specificationKey": "electricians",
+        "specificationText": "Ηλεκτρολόγοι"
+      }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Ηλεκτρικές Εγκαταστάσεις Οικιακών Κυκλωμάτων (πρίζες, διακόπτες, καλωδίωση, επεκτάσεις κυκλωμάτων, κουτιά διακλάδωσης), Εγκατάσταση & Συντήρηση Φωτιστικών Χώρου (LED, σποτ, φωτιστικά οροφής, απλίκες, φωτισμός εξωτερικού χώρου), Ανακαίνιση & Αντικατάσταση Ηλεκτρικού Πίνακα (νέος πίνακας, ρελέ διαρροής, αντικατάσταση ασφαλειών, μονοφασικός/τριφασικός), Έλεγχος & Επισκευή Ηλεκτρικών Βλαβών (προβλήματα ρεύματος, καμένες πρίζες, βραχυκυκλώματα, διακοπές ρεύματος), Εγκατάσταση Κυκλωμάτων Οικιακών Συσκευών (θερμοσίφωνας, κουζίνα, πλυντήριο, A/C, ξεχωριστό κύκλωμα), Γείωση & Μέτρηση Αντίστασης Ασφαλείας (ράβδος γείωσης, μέτρηση, σύνδεση με πίνακα, έλεγχος ασφαλείας), Έκδοση & Υπογραφή Πιστοποιητικού ΥΔΕ (έλεγχος εγκατάστασης, υπεύθυνη δήλωση, αλλαγή ονόματος ΔΕΔΔΗΕ)"
+      }
+    ]
+  }
+},
+{
+  "firstName": "Σωτήρης",
+  "lastName": "Γαντζούδης",
+  "companyName": "",
+  "email": "6974822@gmail.com",
+  "secondaryEmail": "",
+  "phone": "",
+  "mobile": "6974822887",
+  "address": {
+    "street": "Μπουμπουλίνας",
+    "city": "Αστακός",
+    "state": "Αιτωλοακαρνανία",
+    "zip": "300 06",
+    "country": "Ελλάδα"
+  },
+  "minPrice": 20,
+  "maxPrice": 7000,
+  "latitude": 38.5369,
+  "longitude": 21.0841,
+  "serviceRadiusKm": 100,
+  "specificationTypeToRequests": {
+    "CATEGORY": [
+      {
+        "specificationKey": "electricians",
+        "specificationText": "Electricians"
+      }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Electrical Installations of Domestic Circuits (sockets, switches, wiring, circuit extensions, junction boxes), Installation & Maintenance of Lighting Systems (LED, spotlights, ceiling lights, wall lamps, outdoor lighting), Renovation & Replacement of Electrical Panel (new panel, residual current device, fuse replacement, single-phase/three-phase), Fault Detection & Electrical Repairs (power issues, burned sockets, short circuits, power interruptions), Installation of Appliance Circuits (water heater, kitchen, washing machine, A/C, dedicated line), Grounding & Safety Resistance Measurement (grounding rod, resistance test, connection to panel, safety verification), Issue & Signing of Power Supply Certificate (ΥΔΕ) (installation inspection, compliance declaration, name change at DEDDHE)"
+      },
+      {
+        "specificationKey": "electrical_design_and_studies",
+        "specificationText": "Electrical Design and Studies"
+      }
+    ]
+  },
+  "specificationTypeToRequestsGr": {
+    "CATEGORY": [
+      {
+        "specificationKey": "electricians",
+        "specificationText": "Ηλεκτρολόγοι"
+      }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Ηλεκτρικές Εγκαταστάσεις Οικιακών Κυκλωμάτων (πρίζες, διακόπτες, καλωδίωση, επεκτάσεις κυκλωμάτων, κουτιά διακλάδωσης), Εγκατάσταση & Συντήρηση Φωτιστικών Χώρου (LED, σποτ, φωτιστικά οροφής, απλίκες, φωτισμός εξωτερικού χώρου), Ανακαίνιση & Αντικατάσταση Ηλεκτρικού Πίνακα (νέος πίνακας, ρελέ διαρροής, αντικατάσταση ασφαλειών, μονοφασικός/τριφασικός), Έλεγχος & Επισκευή Ηλεκτρικών Βλαβών (προβλήματα ρεύματος, καμένες πρίζες, βραχυκυκλώματα, διακοπές ρεύματος), Εγκατάσταση Κυκλωμάτων Οικιακών Συσκευών (θερμοσίφωνας, κουζίνα, πλυντήριο, A/C, ξεχωριστό κύκλωμα), Γείωση & Μέτρηση Αντίστασης Ασφαλείας (ράβδος γείωσης, μέτρηση, σύνδεση με πίνακα, έλεγχος ασφαλείας), Έκδοση & Υπογραφή Πιστοποιητικού ΥΔΕ (έλεγχος εγκατάστασης, υπεύθυνη δήλωση, αλλαγή ονόματος ΔΕΔΔΗΕ)"
+      },
+      {
+        "specificationKey": "electrical_design_and_studies",
+        "specificationText": "Ηλεκτρολογικός Σχεδιασμός & Μελέτες"
+      }
+    ]
+  }
+},
+{
+  "firstName": "Λαμπρακόπουλος",
+  "lastName": "Μπαλάσκας",
+  "companyName": "ΗΛΕΚΤΡΟΛΥΣΗ",
+  "email": "hlektrolisi@yahoo.com",
+  "secondaryEmail": "",
+  "phone": "2641024350",
+  "mobile": "6906111688",
+  "address": {
+    "street": "1ο χλμ Ε.Ο. Αγρινίου-Αντιρρίου, Κόμβος Αγίου Δημητρίου",
+    "city": "Αγρίνιο",
+    "state": "Αιτωλοακαρνανία",
+    "zip": "301 31",
+    "country": "Ελλάδα"
+  },
+  "minPrice": 20,
+  "maxPrice": 7000,
+  "latitude": 38.6209,
+  "longitude": 21.4021,
+  "serviceRadiusKm": 100,
+  "specificationTypeToRequests": {
+    "CATEGORY": [
+      {
+        "specificationKey": "electricians",
+        "specificationText": "Electricians"
+      }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Electrical Installations of Domestic Circuits (sockets, switches, wiring, circuit extensions, junction boxes), Installation & Maintenance of Lighting Systems (LED, spotlights, ceiling lights, wall lamps, outdoor lighting), Renovation & Replacement of Electrical Panel (new panel, residual current device, fuse replacement, single-phase/three-phase), Fault Detection & Electrical Repairs (power issues, burned sockets, short circuits, power interruptions), Installation of Appliance Circuits (water heater, kitchen, washing machine, A/C, dedicated line), Grounding & Safety Resistance Measurement (grounding rod, resistance test, connection to panel, safety verification), Issue & Signing of Power Supply Certificate (ΥΔΕ) (installation inspection, compliance declaration, name change at DEDDHE)"
+      },
+      {
+        "specificationKey": "iot_and_plc_control_applications",
+        "specificationText": "IoT / PLC Control Applications"
+      },
+      {
+        "specificationKey": "ups_and_power_backup_systems",
+        "specificationText": "UPS, Generators & Power Backup Systems"
+      },
+      {
+        "specificationKey": "industrial_power_systems",
+        "specificationText": "Industrial Power Systems"
+      },
+      {
+        "specificationKey": "photovoltaic_and_net_metering_systems",
+        "specificationText": "Photovoltaic & Net Metering Systems"
+      }
+    ]
+  },
+  "specificationTypeToRequestsGr": {
+    "CATEGORY": [
+      {
+        "specificationKey": "electricians",
+        "specificationText": "Ηλεκτρολόγοι"
+      }
+    ],
+    "SPECIALITY": [
+      {
+        "specificationKey": "electricians_core_skills",
+        "specificationText": "Ηλεκτρικές Εγκαταστάσεις Οικιακών Κυκλωμάτων (πρίζες, διακόπτες, καλωδίωση, επεκτάσεις κυκλωμάτων, κουτιά διακλάδωσης), Εγκατάσταση & Συντήρηση Φωτιστικών Χώρου (LED, σποτ, φωτιστικά οροφής, απλίκες, φωτισμός εξωτερικού χώρου), Ανακαίνιση & Αντικατάσταση Ηλεκτρικού Πίνακα (νέος πίνακας, ρελέ διαρροής, αντικατάσταση ασφαλειών, μονοφασικός/τριφασικός), Έλεγχος & Επισκευή Ηλεκτρικών Βλαβών (προβλήματα ρεύματος, καμένες πρίζες, βραχυκυκλώματα, διακοπές ρεύματος), Εγκατάσταση Κυκλωμάτων Οικιακών Συσκευών (θερμοσίφωνας, κουζίνα, πλυντήριο, A/C, ξεχωριστό κύκλωμα), Γείωση & Μέτρηση Αντίστασης Ασφαλείας (ράβδος γείωσης, μέτρηση, σύνδεση με πίνακα, έλεγχος ασφαλείας), Έκδοση & Υπογραφή Πιστοποιητικού ΥΔΕ (έλεγχος εγκατάστασης, υπεύθυνη δήλωση, αλλαγή ονόματος ΔΕΔΔΗΕ)"
+      },
+      {
+        "specificationKey": "iot_and_plc_control_applications",
+        "specificationText": "IoT / PLC Εφαρμογές Ελέγχου"
+      },
+      {
+        "specificationKey": "ups_and_power_backup_systems",
+        "specificationText": "UPS, Γεννήτριες & Ενεργειακή Εφεδρεία"
+      },
+      {
+        "specificationKey": "industrial_power_systems",
+        "specificationText": "Βιομηχανικά Συστήματα Ισχύος"
+      },
+      {
+        "specificationKey": "photovoltaic_and_net_metering_systems",
+        "specificationText": "Φωτοβολταϊκά & Net Metering Συστήματα"
+      }
+    ]
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
