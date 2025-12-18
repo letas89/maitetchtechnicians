@@ -73,8 +73,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Τριαντάφυλλος",
   "lastName": "Γεμιτζάκης",
   "companyName": "GEMITZAKIS CENTER",
@@ -148,8 +148,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Αντώνης",
   "lastName": "Χαλβατζής",
   "companyName": "",
@@ -223,8 +223,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "NDREU",
   "lastName": "ELECTRIC",
   "companyName": "",
@@ -426,8 +426,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Καρταλας",
   "lastName": "Μυττάκης",
   "companyName": "KM ELECTRIC",
@@ -565,8 +565,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Παναγιώτης",
   "lastName": "Τσώρας",
   "companyName": "",
@@ -640,8 +640,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Ηλίας & Λουκάς",
   "lastName": "Δήμου",
   "companyName": "D ENERGY",
@@ -947,8 +947,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Αποστόλης",
   "lastName": "Καλύβας",
   "companyName": "",
@@ -1022,8 +1022,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Κωνσταντίνος",
   "lastName": "Γιωτάκης",
   "companyName": "CLEVERTHERM",
@@ -1133,8 +1133,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Κωνσταντίνος",
   "lastName": "Μιχαηλίδης",
   "companyName": "",
@@ -1244,8 +1244,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Βαγγέλης",
   "lastName": "Μπόζης",
   "companyName": "",
@@ -1387,8 +1387,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Θεόδωρος",
   "lastName": "Ψωμιάδης",
   "companyName": "",
@@ -1518,8 +1518,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Γιώργος",
   "lastName": "Χαλκίδης",
   "companyName": "",
@@ -1777,8 +1777,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Γεώργιος",
   "lastName": "Κουκούλας",
   "companyName": "",
@@ -1892,8 +1892,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Αναστάσιος",
   "lastName": "Συκούρτης",
   "companyName": "",
@@ -1967,8 +1967,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Νικόλαος",
   "lastName": "Φωτόπουλος",
   "companyName": "",
@@ -2042,8 +2042,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Δημήτρης",
   "lastName": "Κεφαλάς",
   "companyName": "OIKOLED",
@@ -2117,8 +2117,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Αντώνης",
   "lastName": "Πατσαχάκης",
   "companyName": "",
@@ -2336,8 +2336,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "",
   "lastName": "Νικολής",
   "companyName": "PHASIS - ΝΙΚΟΛΗΣ",
@@ -2475,8 +2475,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Βασίλης",
   "lastName": "Χελιδώνης",
   "companyName": "basilistsafas@yahoo.gr",
@@ -2694,8 +2694,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Μιχάλης",
   "lastName": "Κολομπάκης",
   "companyName": "STOCK ELECTRIC",
@@ -2707,7 +2707,7 @@
   "mobile": "",
   "address": {
     "street": "Απόλλωνος 14",
-    "city": "Νέο Ηράκλειο\"",
+    "city": "Νέο Ηράκλειο\""",
     "state": "Αττική",
     "zip": "14121",
     "country": "Ελλάδα"
@@ -3073,8 +3073,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Θωμάς",
   "lastName": "Κακαρατζούλας",
   "companyName": "VOLTOM ELECTRICAL INSTALLATION",
@@ -3140,8 +3140,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Ανδρέας",
   "lastName": "Γάτσιος",
   "companyName": "GATSIOS",
@@ -3319,8 +3319,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "",
   "lastName": "ELECTROVOLT",
   "companyName": "ELECTROVOLT",
@@ -3602,9 +3602,9 @@
       }
     ]
   }
-}"
-"{
-  "firstName": "Λαμπρακόπουλος & Μπαλάσκας\"",
+},
+{
+  "firstName": "Λαμπρακόπουλος & Μπαλάσκας\""",
   "lastName": "",
   "companyName": "ΗΛΕΚΤΡΟΛΥΣΗ",
   "email": "",
@@ -3757,8 +3757,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Σωτήρης",
   "lastName": "Γαντζούδης",
   "companyName": "",
@@ -3824,8 +3824,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Ιωάννης",
   "lastName": "Χούσος",
   "companyName": "",
@@ -3873,8 +3873,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Γεώργιος",
   "lastName": "Γουρουνάς",
   "companyName": "",
@@ -3948,8 +3948,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Παναγιώτης",
   "lastName": "Βασιλόπουλος",
   "companyName": "",
@@ -4015,8 +4015,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Δημήτριος",
   "lastName": "Ζώργιος",
   "companyName": "ΖΩΡΓΙΟΣ ΟΕ",
@@ -4154,8 +4154,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Γεώργιος",
   "lastName": "Καλαντζής",
   "companyName": "",
@@ -4311,8 +4311,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Μάρκος",
   "lastName": "Φαλτσέτος",
   "companyName": "KNX SMART HOME",
@@ -4426,8 +4426,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Χρήστος",
   "lastName": "Σακκούλης",
   "companyName": "",
@@ -4501,8 +4501,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Ευθύμιος",
   "lastName": "Πράπας",
   "companyName": "",
@@ -4596,8 +4596,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Νικόλαος",
   "lastName": "Παπέλης",
   "companyName": "ΗΛΕΚΤΡΟΤΕΧΝΙΚΗ",
@@ -4699,8 +4699,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Αθανάσιος",
   "lastName": "Αναγνωστόπουλος",
   "companyName": "",
@@ -4778,8 +4778,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Χρήστος",
   "lastName": "Καλαμάκης",
   "companyName": "",
@@ -4849,8 +4849,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Δημήτριος",
   "lastName": "Γαβρίλης",
   "companyName": "",
@@ -4928,8 +4928,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Δημήτριος",
   "lastName": "Σωτηρόπουλος",
   "companyName": "",
@@ -4995,8 +4995,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Βασίλειος",
   "lastName": "Μανάβης",
   "companyName": "",
@@ -5130,8 +5130,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Ανδρέας",
   "lastName": "Αποστολόπουλος",
   "companyName": "",
@@ -5281,8 +5281,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Ευθύμιος",
   "lastName": "Γουργουλέτης",
   "companyName": "",
@@ -5408,8 +5408,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Γεώργιος",
   "lastName": "Κούρτης – Τουμπούρος",
   "companyName": "Γ. ΚΟΥΡΤΗΣ – Π. ΤΟΥΜΠΟΥΡΟΣ Ο.Ε. – Σ.Ε.Η.Ε.",
@@ -5483,7 +5483,7 @@
       },
       {
         "specificationKey": "keyword",
-        "specificationText": "ηλεκτρολογος, ηλεκτρολόγος, ηλεκτρολογ, ηλεκτρολ, πινακας, πίνακας, πινακ, πινα, ρελε, ρελέ, ρελ, ασφαλεια, ασφάλεια, ασφαλ, ασφα, καλωδιωση, καλωδίωση, καλωδιω, καλωδι, καλωδ, κυκλωμα, κύκλωμα, κυκλωμ, κυκλω, κυκλ, ισχυς, ισχύς, ισχυ, ισχ, βλαβη, βλάβη, βλαβ, βλα, γειωση, γείωση, γειωσ, γειω, γει, μελετη, μελέτη, μελετ, μελ, σχεδιο, σχέδιο, σχεδι, σχεδ, μηχανικος, μηχανικός, μηχανικ, μηχαν, εργαστηριο, εργαστήριο, εργαστηρ, εργαστη, αποθηκη, αποθήκη, αποθηκ, αποθη, ilektrologos, ilektrolog, ilektrol, pinakas, pinak, pina, rele, rel, asfaleia, asfal, asfa, kalodiwsi, kalodiws, kalodiw, kalodi, kalod, kykloma, kyklom, kykl, isxys (δεν υπάρχει στη λίστα σου, αλλά το "isxys/isx" δεν δόθηκε σε greeklish → δεν το προσθέτω αυθαίρετα), blavi, blav, bla, geiosi, geios, gei, meliti, melit, mel, sxedio, sxedi, sxed, mixanikos, mixanik, mixan, ergastirio, ergastiri, ergastir, apothiki, apothik, apothi"
+        "specificationText": ""ηλεκτρολογος, ηλεκτρολόγος, ηλεκτρολογ, ηλεκτρολ, πινακας, πίνακας, πινακ, πινα, ρελε, ρελέ, ρελ, ασφαλεια, ασφάλεια, ασφαλ, ασφα, καλωδιωση, καλωδίωση, καλωδιω, καλωδι, καλωδ, κυκλωμα, κύκλωμα, κυκλωμ, κυκλω, κυκλ, ισχυς, ισχύς, ισχυ, ισχ, βλαβη, βλάβη, βλαβ, βλα, γειωση, γείωση, γειωσ, γειω, γει, μελετη, μελέτη, μελετ, μελ, σχεδιο, σχέδιο, σχεδι, σχεδ, μηχανικος, μηχανικός, μηχανικ, μηχαν, εργαστηριο, εργαστήριο, εργαστηρ, εργαστη, αποθηκη, αποθήκη, αποθηκ, αποθη, ilektrologos, ilektrolog, ilektrol, pinakas, pinak, pina, rele, rel, asfaleia, asfal, asfa, kalodiwsi, kalodiws, kalodiw, kalodi, kalod, kykloma, kyklom, kykl, isxys (δεν υπάρχει στη λίστα σου, αλλά το "isxys/isx" δεν δόθηκε σε greeklish → δεν το προσθέτω αυθαίρετα), blavi, blav, bla, geiosi, geios, gei, meliti, melit, mel, sxedio, sxedi, sxed, mixanikos, mixanik, mixan, ergastirio, ergastiri, ergastir, apothiki, apothik, apothi""
       }
     ],
     "CORE": [
@@ -5519,8 +5519,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Θεοδόσης & Φώτης",
   "lastName": "Πορίχης",
   "companyName": "LightOn",
@@ -5666,8 +5666,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Ιωάννης",
   "lastName": "Σπυρόπουλος",
   "companyName": "",
@@ -5713,9 +5713,8 @@
       }
     ]
   }
-}
-"
-"{
+},
+{
   "firstName": "Κωνσταντίνος",
   "lastName": "Αγγελόπουλος",
   "companyName": "Κωνσταντίνος Αγγελόπουλος",
@@ -5929,8 +5928,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Παναγιώτης",
   "lastName": "Καλύβας",
   "companyName": "",
@@ -6192,8 +6191,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Αντώνης",
   "lastName": "Φραντζεσκάκης",
   "companyName": "FRANTZESKAKIS ELECTRICIAN SERVICES",
@@ -6335,8 +6334,8 @@
       }
     ]
   }
-}"
-"{
+},
+{
   "firstName": "Αντώνης",
   "lastName": "Κάγιος",
   "companyName": "ΚΑΓΙΟΣ Αντώνης Κάγιος",
@@ -6628,5 +6627,3 @@
   }
 }
 ]
-
-
